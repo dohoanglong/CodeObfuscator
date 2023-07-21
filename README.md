@@ -1,6 +1,6 @@
 # Code Obfuscator
 
-Code Obfuscator is a tool built with React and TypeScript, using Material-UI for the interface. This application allows you to obfuscate sensitive names in a piece of code to a set of generic names and vice versa.
+Code Obfuscator is a tool built with React and TypeScript, using Material-UI for the interface. This application allows you to obfuscate sensitive data from the code before sending it to ChatGPT. After receiving the response back, I can use the same tool to deobfuscate the data back to its original form
 
 
 ## Available Scripts
